@@ -1,0 +1,7 @@
+mcp[cli]
+pymongo
+pydantic
+
+[dev]
+pytest
+pytest-asyncio
